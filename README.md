@@ -3,5 +3,5 @@
 Partition EFI pour Hackintosh (Fonctionne avec macOS Big Sur).
 
 Ne fonctionne pas :
-- Carte WiFi (AR9565)
+- Carte WiFi & Bluetooth (AR9565)
 - Son
